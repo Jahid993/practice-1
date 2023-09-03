@@ -173,3 +173,10 @@ main section {
 .resume-container hr {
     margin: 30px;
 }
+
+/* download cv button */
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
